@@ -1,0 +1,2460 @@
+{
+  "everyday_objects": [
+    {
+      "word": "Keys",
+      "hint": "Opens things up"
+    },
+    {
+      "word": "Wallet",
+      "hint": "Keeps cards safe"
+    },
+    {
+      "word": "Phone",
+      "hint": "Pocket communicator"
+    },
+    {
+      "word": "Toothbrush",
+      "hint": "Morning bristle"
+    },
+    {
+      "word": "Mug",
+      "hint": "For hot liquids"
+    },
+    {
+      "word": "Lamp",
+      "hint": "Desk brightener"
+    },
+    {
+      "word": "Backpack",
+      "hint": "Shoulder storage"
+    },
+    {
+      "word": "Umbrella",
+      "hint": "Keeps you dry"
+    },
+    {
+      "word": "Scissors",
+      "hint": "Makes things shorter"
+    },
+    {
+      "word": "Comb",
+      "hint": "Tangles no more"
+    },
+    {
+      "word": "Curtain",
+      "hint": "Blocks the view"
+    },
+    {
+      "word": "Pillow",
+      "hint": "Soft block"
+    },
+    {
+      "word": "Blanket",
+      "hint": "Nighttime layer"
+    },
+    {
+      "word": "Clock",
+      "hint": "Has hands but no arms"
+    },
+    {
+      "word": "Mirror",
+      "hint": "Shows the truth"
+    },
+    {
+      "word": "Towel",
+      "hint": "Gets wetter as it dries"
+    },
+    {
+      "word": "Soap",
+      "hint": "Slippery cleaner"
+    },
+    {
+      "word": "Sponge",
+      "hint": "Porous scrubber"
+    },
+    {
+      "word": "Broom",
+      "hint": "Dust mover"
+    },
+    {
+      "word": "Trash Can",
+      "hint": "Eats paper"
+    },
+    {
+      "word": "Pen",
+      "hint": "Ink dispenser"
+    },
+    {
+      "word": "Pencil",
+      "hint": "Requires sharpening"
+    },
+    {
+      "word": "Notebook",
+      "hint": "Lined pages"
+    },
+    {
+      "word": "Stapler",
+      "hint": "Metal fastener"
+    },
+    {
+      "word": "Tape",
+      "hint": "Sticky strip"
+    },
+    {
+      "word": "Chair",
+      "hint": "Four legged rest"
+    },
+    {
+      "word": "Table",
+      "hint": "Flat elevated surface"
+    },
+    {
+      "word": "Couch",
+      "hint": "Multi-person seat"
+    },
+    {
+      "word": "Television",
+      "hint": "Moving pictures"
+    },
+    {
+      "word": "Remote",
+      "hint": "Button clicker"
+    },
+    {
+      "word": "Battery",
+      "hint": "Cell power"
+    },
+    {
+      "word": "Charger",
+      "hint": "Cable juice"
+    },
+    {
+      "word": "Headphones",
+      "hint": "Personal audio"
+    },
+    {
+      "word": "Glasses",
+      "hint": "Facial frames"
+    },
+    {
+      "word": "Watch",
+      "hint": "Wrist accessory"
+    },
+    {
+      "word": "Ring",
+      "hint": "Circular band"
+    },
+    {
+      "word": "Necklace",
+      "hint": "Hangs around"
+    },
+    {
+      "word": "Earrings",
+      "hint": "Lobe decor"
+    },
+    {
+      "word": "Shoe",
+      "hint": "Has a sole"
+    },
+    {
+      "word": "Sock",
+      "hint": "Worn inside out"
+    }
+  ],
+  "famous_people": [
+    {
+      "word": "Albert Einstein",
+      "hint": "E=mc squared"
+    },
+    {
+      "word": "Michael Jackson",
+      "hint": "Moonwalker"
+    },
+    {
+      "word": "Marilyn Monroe",
+      "hint": "Classic Hollywood blonde"
+    },
+    {
+      "word": "Elvis Presley",
+      "hint": "Hound dog singer"
+    },
+    {
+      "word": "Abraham Lincoln",
+      "hint": "Penny face"
+    },
+    {
+      "word": "George Washington",
+      "hint": "Quarter face"
+    },
+    {
+      "word": "Cleopatra",
+      "hint": "Ancient ruler"
+    },
+    {
+      "word": "William Shakespeare",
+      "hint": "To be or not to be"
+    },
+    {
+      "word": "Leonardo da Vinci",
+      "hint": "Renaissance man"
+    },
+    {
+      "word": "Isaac Newton",
+      "hint": "Felt the bump"
+    },
+    {
+      "word": "Winston Churchill",
+      "hint": "Cigar smoking PM"
+    },
+    {
+      "word": "Martin Luther King Jr",
+      "hint": "Civil rights icon"
+    },
+    {
+      "word": "Nelson Mandela",
+      "hint": "Robben Island prisoner"
+    },
+    {
+      "word": "Mahatma Gandhi",
+      "hint": "Salt march leader"
+    },
+    {
+      "word": "Mother Teresa",
+      "hint": "Calcutta helper"
+    },
+    {
+      "word": "Charles Darwin",
+      "hint": "Natural selection"
+    },
+    {
+      "word": "Galileo Galilei",
+      "hint": "Looked at stars"
+    },
+    {
+      "word": "Marie Curie",
+      "hint": "Radioactive researcher"
+    },
+    {
+      "word": "Steve Jobs",
+      "hint": "Turtleneck visionary"
+    },
+    {
+      "word": "Bill Gates",
+      "hint": "Windows creator"
+    },
+    {
+      "word": "Mark Zuckerberg",
+      "hint": "Social networker"
+    },
+    {
+      "word": "Elon Musk",
+      "hint": "Mars dreamer"
+    },
+    {
+      "word": "Jeff Bezos",
+      "hint": "Prime billionaire"
+    },
+    {
+      "word": "Oprah Winfrey",
+      "hint": "You get a car!"
+    },
+    {
+      "word": "Ellen DeGeneres",
+      "hint": "Dancing host"
+    },
+    {
+      "word": "Tom Cruise",
+      "hint": "Does his own stunts"
+    },
+    {
+      "word": "Will Smith",
+      "hint": "Slapped at Oscars"
+    },
+    {
+      "word": "Brad Pitt",
+      "hint": "Ocean's eleven actor"
+    },
+    {
+      "word": "Angelina Jolie",
+      "hint": "Maleficent"
+    },
+    {
+      "word": "Leonardo DiCaprio",
+      "hint": "Finally won an Oscar"
+    },
+    {
+      "word": "Johnny Depp",
+      "hint": "Captain Jack"
+    },
+    {
+      "word": "Robert Downey Jr",
+      "hint": "Avenger genius"
+    },
+    {
+      "word": "Chris Evans",
+      "hint": "First Avenger"
+    },
+    {
+      "word": "Chris Hemsworth",
+      "hint": "Aussie Avenger"
+    },
+    {
+      "word": "Scarlett Johansson",
+      "hint": "Black Widow"
+    },
+    {
+      "word": "Jennifer Lawrence",
+      "hint": "Mockingjay"
+    }
+  ],
+  "food_drinks": [
+    {
+      "word": "Pizza",
+      "hint": "Cheesy triangles"
+    },
+    {
+      "word": "Burger",
+      "hint": "Meat between buns"
+    },
+    {
+      "word": "Sushi",
+      "hint": "Seaweed roll"
+    },
+    {
+      "word": "Pasta",
+      "hint": "Boiled carbs"
+    },
+    {
+      "word": "Taco",
+      "hint": "Folded shell"
+    },
+    {
+      "word": "Steak",
+      "hint": "Well done or rare"
+    },
+    {
+      "word": "Salad",
+      "hint": "Bowl of leaves"
+    },
+    {
+      "word": "Soup",
+      "hint": "Eaten with a spoon"
+    },
+    {
+      "word": "Coffee",
+      "hint": "Roasted bean water"
+    },
+    {
+      "word": "Juice",
+      "hint": "Squeezed fruit"
+    },
+    {
+      "word": "Beer",
+      "hint": "Hoppy beverage"
+    },
+    {
+      "word": "Wine",
+      "hint": "Aged in barrels"
+    },
+    {
+      "word": "Water",
+      "hint": "Essential liquid"
+    },
+    {
+      "word": "Soda",
+      "hint": "Fizzy pop"
+    },
+    {
+      "word": "Tea",
+      "hint": "Steeped bag"
+    },
+    {
+      "word": "Milk",
+      "hint": "Cereal liquid"
+    },
+    {
+      "word": "Cheese",
+      "hint": "Aged dairy"
+    },
+    {
+      "word": "Butter",
+      "hint": "Melted on toast"
+    },
+    {
+      "word": "Bread",
+      "hint": "Sliced loaf"
+    },
+    {
+      "word": "Bagel",
+      "hint": "Boiled then baked"
+    },
+    {
+      "word": "Croissant",
+      "hint": "Flaky crescent"
+    },
+    {
+      "word": "Donut",
+      "hint": "Sweet ring"
+    },
+    {
+      "word": "Cake",
+      "hint": "Sliced pastry"
+    },
+    {
+      "word": "Pie",
+      "hint": "Fruity crust"
+    },
+    {
+      "word": "Cookie",
+      "hint": "Chocolate chipped"
+    },
+    {
+      "word": "Brownie",
+      "hint": "Fudgy square"
+    },
+    {
+      "word": "Ice Cream",
+      "hint": "Eaten from a cone"
+    },
+    {
+      "word": "Popsicle",
+      "hint": "On a stick"
+    },
+    {
+      "word": "Chocolate",
+      "hint": "Sweet cocoa"
+    },
+    {
+      "word": "Candy",
+      "hint": "Wrapper treats"
+    },
+    {
+      "word": "Apple",
+      "hint": "Teacher's fruit"
+    },
+    {
+      "word": "Banana",
+      "hint": "Peel carefully"
+    }
+  ],
+  "animals": [
+    {
+      "word": "Lion",
+      "hint": "Mane ruler"
+    },
+    {
+      "word": "Tiger",
+      "hint": "Forest stripes"
+    },
+    {
+      "word": "Elephant",
+      "hint": "Heavy stomper"
+    },
+    {
+      "word": "Giraffe",
+      "hint": "Tallest of all"
+    },
+    {
+      "word": "Zebra",
+      "hint": "Black and white runner"
+    },
+    {
+      "word": "Monkey",
+      "hint": "Banana eater"
+    },
+    {
+      "word": "Kangaroo",
+      "hint": "Pouch holder"
+    },
+    {
+      "word": "Penguin",
+      "hint": "Waddling bird"
+    },
+    {
+      "word": "Dolphin",
+      "hint": "Clicking swimmer"
+    },
+    {
+      "word": "Shark",
+      "hint": "Fin in the water"
+    },
+    {
+      "word": "Whale",
+      "hint": "Blowhole breather"
+    },
+    {
+      "word": "Bear",
+      "hint": "Honey lover"
+    },
+    {
+      "word": "Wolf",
+      "hint": "Pack hunter"
+    },
+    {
+      "word": "Fox",
+      "hint": "Bushy tail"
+    },
+    {
+      "word": "Dog",
+      "hint": "Barks at mail"
+    },
+    {
+      "word": "Cat",
+      "hint": "Chases lasers"
+    },
+    {
+      "word": "Mouse",
+      "hint": "Cheese lover"
+    },
+    {
+      "word": "Rat",
+      "hint": "Maze runner"
+    },
+    {
+      "word": "Rabbit",
+      "hint": "Long ears"
+    },
+    {
+      "word": "Squirrel",
+      "hint": "Acorn hider"
+    },
+    {
+      "word": "Frog",
+      "hint": "Lily pad hopper"
+    },
+    {
+      "word": "Snake",
+      "hint": "No legs"
+    },
+    {
+      "word": "Turtle",
+      "hint": "Slow walker"
+    },
+    {
+      "word": "Lizard",
+      "hint": "Regrows tail"
+    }
+  ],
+  "brands_logos": [
+    {
+      "word": "Apple",
+      "hint": "Bitten fruit"
+    },
+    {
+      "word": "Nike",
+      "hint": "Swoosh mark"
+    },
+    {
+      "word": "Coca-Cola",
+      "hint": "Red label soda"
+    },
+    {
+      "word": "Google",
+      "hint": "Primary colors search"
+    },
+    {
+      "word": "Microsoft",
+      "hint": "Four colored squares"
+    },
+    {
+      "word": "Amazon",
+      "hint": "A to Z arrow"
+    },
+    {
+      "word": "Adidas",
+      "hint": "Three slanted lines"
+    },
+    {
+      "word": "Pepsi",
+      "hint": "Red white blue globe"
+    },
+    {
+      "word": "McDonalds",
+      "hint": "Golden letter"
+    },
+    {
+      "word": "Samsung",
+      "hint": "Blue ellipse"
+    },
+    {
+      "word": "Toyota",
+      "hint": "Intersecting ovals"
+    },
+    {
+      "word": "Honda",
+      "hint": "Silver H"
+    },
+    {
+      "word": "Sony",
+      "hint": "Electronics giant"
+    },
+    {
+      "word": "Disney",
+      "hint": "Castle logo"
+    },
+    {
+      "word": "Netflix",
+      "hint": "Red N"
+    },
+    {
+      "word": "Spotify",
+      "hint": "Three sound waves"
+    },
+    {
+      "word": "Tesla",
+      "hint": "Electric T"
+    },
+    {
+      "word": "Ford",
+      "hint": "Blue oval"
+    },
+    {
+      "word": "BMW",
+      "hint": "Bavarian motor"
+    },
+    {
+      "word": "Mercedes",
+      "hint": "Three point star"
+    },
+    {
+      "word": "Gucci",
+      "hint": "Double G"
+    },
+    {
+      "word": "Louis Vuitton",
+      "hint": "LV monogram"
+    },
+    {
+      "word": "Chanel",
+      "hint": "Interlocking C"
+    },
+    {
+      "word": "Prada",
+      "hint": "Milano fashion"
+    },
+    {
+      "word": "Rolex",
+      "hint": "Crown logo"
+    },
+    {
+      "word": "Starbucks",
+      "hint": "Twin-tailed siren"
+    },
+    {
+      "word": "Subway",
+      "hint": "Eat fresh"
+    },
+    {
+      "word": "KFC",
+      "hint": "Colonel's face"
+    }
+  ],
+  "colors_shapes": [
+    {
+      "word": "Red",
+      "hint": "Stop sign color"
+    },
+    {
+      "word": "Blue",
+      "hint": "Ocean color"
+    },
+    {
+      "word": "Green",
+      "hint": "Leaf color"
+    },
+    {
+      "word": "Yellow",
+      "hint": "Banana color"
+    },
+    {
+      "word": "Purple",
+      "hint": "Grape color"
+    },
+    {
+      "word": "Orange",
+      "hint": "Carrot color"
+    },
+    {
+      "word": "Circle",
+      "hint": "No corners"
+    },
+    {
+      "word": "Square",
+      "hint": "Four even sides"
+    },
+    {
+      "word": "Triangle",
+      "hint": "Pyramid face"
+    },
+    {
+      "word": "Rectangle",
+      "hint": "Long box"
+    },
+    {
+      "word": "Hexagon",
+      "hint": "Honeycomb cell"
+    },
+    {
+      "word": "Oval",
+      "hint": "Egg silhouette"
+    },
+    {
+      "word": "Pink",
+      "hint": "Flamingo shade"
+    },
+    {
+      "word": "Brown",
+      "hint": "Bark shade"
+    },
+    {
+      "word": "Black",
+      "hint": "Night sky"
+    },
+    {
+      "word": "White",
+      "hint": "Cloud shade"
+    },
+    {
+      "word": "Grey",
+      "hint": "Stormy sky"
+    },
+    {
+      "word": "Cyan",
+      "hint": "Printer ink"
+    },
+    {
+      "word": "Magenta",
+      "hint": "Pinkish purple"
+    },
+    {
+      "word": "Turquoise",
+      "hint": "Gemstone shade"
+    },
+    {
+      "word": "Diamond",
+      "hint": "Baseball field"
+    },
+    {
+      "word": "Star",
+      "hint": "Five points"
+    },
+    {
+      "word": "Heart",
+      "hint": "Organ shape"
+    },
+    {
+      "word": "Crescent",
+      "hint": "Bitten cookie"
+    },
+    {
+      "word": "Octagon",
+      "hint": "UFC ring"
+    },
+    {
+      "word": "Pentagon",
+      "hint": "DC building"
+    },
+    {
+      "word": "Sphere",
+      "hint": "Globe shape"
+    },
+    {
+      "word": "Cube",
+      "hint": "Dice shape"
+    }
+  ],
+  "countries_cities": [
+    {
+      "word": "USA",
+      "hint": "50 stars"
+    },
+    {
+      "word": "UK",
+      "hint": "Island monarchy"
+    },
+    {
+      "word": "France",
+      "hint": "Baguette origin"
+    },
+    {
+      "word": "Germany",
+      "hint": "Pretzel origin"
+    },
+    {
+      "word": "Japan",
+      "hint": "Island of the sun"
+    },
+    {
+      "word": "China",
+      "hint": "Largest population"
+    },
+    {
+      "word": "India",
+      "hint": "Curry origin"
+    },
+    {
+      "word": "Brazil",
+      "hint": "Amazon home"
+    },
+    {
+      "word": "Canada",
+      "hint": "Polite neighbor"
+    },
+    {
+      "word": "Australia",
+      "hint": "Down under"
+    },
+    {
+      "word": "New York",
+      "hint": "Never sleeps"
+    },
+    {
+      "word": "London",
+      "hint": "Double decker buses"
+    },
+    {
+      "word": "Paris",
+      "hint": "Luminous city"
+    },
+    {
+      "word": "Rome",
+      "hint": "Gladiator home"
+    },
+    {
+      "word": "Tokyo",
+      "hint": "Crowded crossing"
+    },
+    {
+      "word": "Beijing",
+      "hint": "Forbidden walls"
+    },
+    {
+      "word": "Moscow",
+      "hint": "Chilly capital"
+    },
+    {
+      "word": "Berlin",
+      "hint": "Divided wall"
+    },
+    {
+      "word": "Madrid",
+      "hint": "Tapas capital"
+    },
+    {
+      "word": "Barcelona",
+      "hint": "Gaudi architecture"
+    }
+  ],
+  "emotions_feelings": [
+    {
+      "word": "Happiness",
+      "hint": "Smiling state"
+    },
+    {
+      "word": "Sadness",
+      "hint": "Teary state"
+    },
+    {
+      "word": "Anger",
+      "hint": "Red faced state"
+    },
+    {
+      "word": "Fear",
+      "hint": "Shivering state"
+    },
+    {
+      "word": "Surprise",
+      "hint": "Jaw dropped"
+    },
+    {
+      "word": "Disgust",
+      "hint": "Wrinkled nose"
+    },
+    {
+      "word": "Love",
+      "hint": "Heart fluttering"
+    },
+    {
+      "word": "Jealousy",
+      "hint": "Green eyed monster"
+    },
+    {
+      "word": "Guilt",
+      "hint": "Heavy conscience"
+    },
+    {
+      "word": "Pride",
+      "hint": "Chest puffed"
+    },
+    {
+      "word": "Shame",
+      "hint": "Looking away"
+    },
+    {
+      "word": "Anxiety",
+      "hint": "Biting nails"
+    },
+    {
+      "word": "Excitement",
+      "hint": "Jumping up"
+    },
+    {
+      "word": "Boredom",
+      "hint": "Yawning heavily"
+    },
+    {
+      "word": "Confusion",
+      "hint": "Scratching head"
+    },
+    {
+      "word": "Curiosity",
+      "hint": "Asking why"
+    },
+    {
+      "word": "Hope",
+      "hint": "Fingers crossed"
+    },
+    {
+      "word": "Nostalgia",
+      "hint": "Thinking of yesterday"
+    },
+    {
+      "word": "Relief",
+      "hint": "Deep exhale"
+    },
+    {
+      "word": "Frustration",
+      "hint": "Pulling hair"
+    },
+    {
+      "word": "Awe",
+      "hint": "Wide eyed wonder"
+    },
+    {
+      "word": "Sympathy",
+      "hint": "Feeling for another"
+    },
+    {
+      "word": "Empathy",
+      "hint": "Feeling with another"
+    },
+    {
+      "word": "Loneliness",
+      "hint": "Solo blues"
+    },
+    {
+      "word": "Gratitude",
+      "hint": "Saying thanks"
+    },
+    {
+      "word": "Contentment",
+      "hint": "Peaceful rest"
+    },
+    {
+      "word": "Greed",
+      "hint": "Wanting it all"
+    },
+    {
+      "word": "Resentment",
+      "hint": "Holding a grudge"
+    }
+  ],
+  "hobbies_activities": [
+    {
+      "word": "Reading",
+      "hint": "Flipping pages"
+    },
+    {
+      "word": "Writing",
+      "hint": "Jotting down"
+    },
+    {
+      "word": "Drawing",
+      "hint": "Sketching lines"
+    },
+    {
+      "word": "Painting",
+      "hint": "Mixing palettes"
+    },
+    {
+      "word": "Photography",
+      "hint": "Focusing lenses"
+    },
+    {
+      "word": "Gaming",
+      "hint": "Button mashing"
+    },
+    {
+      "word": "Cooking",
+      "hint": "Following recipes"
+    },
+    {
+      "word": "Baking",
+      "hint": "Measuring flour"
+    },
+    {
+      "word": "Gardening",
+      "hint": "Watering soil"
+    },
+    {
+      "word": "Fishing",
+      "hint": "Casting lines"
+    },
+    {
+      "word": "Hiking",
+      "hint": "Uphill walking"
+    },
+    {
+      "word": "Cycling",
+      "hint": "Pedaling fast"
+    },
+    {
+      "word": "Yoga",
+      "hint": "Holding poses"
+    },
+    {
+      "word": "Meditation",
+      "hint": "Deep breathing"
+    },
+    {
+      "word": "Dancing",
+      "hint": "Feeling the beat"
+    },
+    {
+      "word": "Singing",
+      "hint": "Hitting notes"
+    },
+    {
+      "word": "Knitting",
+      "hint": "Clicking needles"
+    },
+    {
+      "word": "Sewing",
+      "hint": "Pushing pins"
+    },
+    {
+      "word": "Woodworking",
+      "hint": "Sawing planks"
+    },
+    {
+      "word": "Pottery",
+      "hint": "Spinning clay"
+    },
+    {
+      "word": "Swimming",
+      "hint": "Doing laps"
+    },
+    {
+      "word": "Running",
+      "hint": "Pounding pavement"
+    },
+    {
+      "word": "Camping",
+      "hint": "Pitching tents"
+    },
+    {
+      "word": "Surfing",
+      "hint": "Paddling out"
+    },
+    {
+      "word": "Skateboarding",
+      "hint": "Doing tricks"
+    },
+    {
+      "word": "Skiing",
+      "hint": "Holding poles"
+    },
+    {
+      "word": "Snowboarding",
+      "hint": "Carving powder"
+    },
+    {
+      "word": "Rock Climbing",
+      "hint": "Chalking hands"
+    }
+  ],
+  "internet_culture": [
+    {
+      "word": "Meme",
+      "hint": "Funny internet picture"
+    },
+    {
+      "word": "Viral",
+      "hint": "Everyone saw it"
+    },
+    {
+      "word": "Influencer",
+      "hint": "Has sponsors"
+    },
+    {
+      "word": "Troll",
+      "hint": "Bothers people"
+    },
+    {
+      "word": "Clickbait",
+      "hint": "You won't believe"
+    },
+    {
+      "word": "Hashtag",
+      "hint": "Sorting tag"
+    },
+    {
+      "word": "Emoji",
+      "hint": "Text picture"
+    },
+    {
+      "word": "Selfie",
+      "hint": "Front camera"
+    },
+    {
+      "word": "Vlog",
+      "hint": "Daily video"
+    },
+    {
+      "word": "Podcast",
+      "hint": "Audio conversation"
+    },
+    {
+      "word": "Stream",
+      "hint": "Live broadcast"
+    },
+    {
+      "word": "Trend",
+      "hint": "Currently happening"
+    },
+    {
+      "word": "Tiktok",
+      "hint": "Swiping app"
+    },
+    {
+      "word": "Twitter",
+      "hint": "Short text app"
+    },
+    {
+      "word": "Instagram",
+      "hint": "Square photos"
+    },
+    {
+      "word": "Reddit",
+      "hint": "Sub-communities"
+    },
+    {
+      "word": "Google",
+      "hint": "I'm feeling lucky"
+    },
+    {
+      "word": "Wikipedia",
+      "hint": "Anyone can edit"
+    },
+    {
+      "word": "YouTube",
+      "hint": "Subscribe button"
+    },
+    {
+      "word": "Twitch",
+      "hint": "Gamer streaming"
+    },
+    {
+      "word": "GIF",
+      "hint": "Looping animation"
+    },
+    {
+      "word": "DM",
+      "hint": "Sliding in"
+    },
+    {
+      "word": "Bitcoin",
+      "hint": "Digital coin"
+    },
+    {
+      "word": "NFT",
+      "hint": "Expensive jpeg"
+    },
+    {
+      "word": "Avatar",
+      "hint": "Profile picture"
+    },
+    {
+      "word": "Bio",
+      "hint": "About me"
+    },
+    {
+      "word": "Follower",
+      "hint": "Keeping up"
+    },
+    {
+      "word": "Like",
+      "hint": "Double tap"
+    }
+  ],
+  "kitchen_cooking": [
+    {
+      "word": "Knife",
+      "hint": "Sharp edge"
+    },
+    {
+      "word": "Fork",
+      "hint": "Four prongs"
+    },
+    {
+      "word": "Spoon",
+      "hint": "Curved head"
+    },
+    {
+      "word": "Plate",
+      "hint": "Dinner disc"
+    },
+    {
+      "word": "Bowl",
+      "hint": "Cereal holder"
+    },
+    {
+      "word": "Cup",
+      "hint": "Handle-less drinkware"
+    },
+    {
+      "word": "Glass",
+      "hint": "Fragile drinkware"
+    },
+    {
+      "word": "Pan",
+      "hint": "Shallow cooker"
+    },
+    {
+      "word": "Pot",
+      "hint": "Deep cooker"
+    },
+    {
+      "word": "Oven",
+      "hint": "Hot box"
+    },
+    {
+      "word": "Stove",
+      "hint": "Burner top"
+    },
+    {
+      "word": "Microwave",
+      "hint": "Rotating heater"
+    },
+    {
+      "word": "Fridge",
+      "hint": "Cold box"
+    },
+    {
+      "word": "Freezer",
+      "hint": "Ice box"
+    },
+    {
+      "word": "Blender",
+      "hint": "Whirling blades"
+    },
+    {
+      "word": "Toaster",
+      "hint": "Pop up heater"
+    },
+    {
+      "word": "Spatula",
+      "hint": "Flipping accessory"
+    },
+    {
+      "word": "Whisk",
+      "hint": "Wire loops"
+    },
+    {
+      "word": "Tongs",
+      "hint": "Pinching grabs"
+    },
+    {
+      "word": "Peeler",
+      "hint": "Skin remover"
+    },
+    {
+      "word": "Cutting Board",
+      "hint": "Wooden surface"
+    },
+    {
+      "word": "Colander",
+      "hint": "Holey bowl"
+    },
+    {
+      "word": "Measuring Cup",
+      "hint": "Scale lines"
+    },
+    {
+      "word": "Rolling Pin",
+      "hint": "Cylindrical flattener"
+    },
+    {
+      "word": "Dishwasher",
+      "hint": "Automated cleaner"
+    },
+    {
+      "word": "Sink",
+      "hint": "Faucet basin"
+    },
+    {
+      "word": "Trash Can",
+      "hint": "Rubbish bin"
+    },
+    {
+      "word": "Pantry",
+      "hint": "Dry food closet"
+    }
+  ],
+  "movies_tv": [
+    {
+      "word": "Star Wars",
+      "hint": "Far far away"
+    },
+    {
+      "word": "Harry Potter",
+      "hint": "Platform 9 3/4"
+    },
+    {
+      "word": "Lord of the Rings",
+      "hint": "Mount Doom"
+    },
+    {
+      "word": "Marvel",
+      "hint": "Stan Lee cameos"
+    },
+    {
+      "word": "Batman",
+      "hint": "Gotham protector"
+    },
+    {
+      "word": "Superman",
+      "hint": "Kryptonite weakness"
+    },
+    {
+      "word": "Spider-Man",
+      "hint": "Great responsibility"
+    },
+    {
+      "word": "Pulp Fiction",
+      "hint": "Briefcase glowing"
+    },
+    {
+      "word": "The Godfather",
+      "hint": "An offer you cannot refuse"
+    },
+    {
+      "word": "Friends",
+      "hint": "Central Perk"
+    },
+    {
+      "word": "The Office",
+      "hint": "Dunder Mifflin"
+    },
+    {
+      "word": "Stranger Things",
+      "hint": "The Upside Down"
+    },
+    {
+      "word": "The Matrix",
+      "hint": "Taking the red pill"
+    },
+    {
+      "word": "Jurassic Park",
+      "hint": "Mosquito in amber"
+    },
+    {
+      "word": "Titanic",
+      "hint": "Iceberg ahead"
+    },
+    {
+      "word": "Avatar",
+      "hint": "Blue CGI aliens"
+    },
+    {
+      "word": "Inception",
+      "hint": "Spinning top"
+    },
+    {
+      "word": "The Lion King",
+      "hint": "Hakuna Matata"
+    },
+    {
+      "word": "Toy Story",
+      "hint": "You've got a friend in me"
+    },
+    {
+      "word": "Finding Nemo",
+      "hint": "Just keep swimming"
+    },
+    {
+      "word": "Game of Thrones",
+      "hint": "Iron throne"
+    },
+    {
+      "word": "Breaking Bad",
+      "hint": "Walter White"
+    },
+    {
+      "word": "The Simpsons",
+      "hint": "Springfield residents"
+    },
+    {
+      "word": "Spongebob",
+      "hint": "Krusty Krab"
+    },
+    {
+      "word": "Doctor Who",
+      "hint": "TARDIS traveler"
+    },
+    {
+      "word": "Sherlock",
+      "hint": "Baker Street"
+    },
+    {
+      "word": "Black Mirror",
+      "hint": "Screen reflection"
+    },
+    {
+      "word": "The Mandalorian",
+      "hint": "This is the way"
+    }
+  ],
+  "music_bands": [
+    {
+      "word": "The Beatles",
+      "hint": "Abbey Road crossers"
+    },
+    {
+      "word": "Queen",
+      "hint": "We will rock you"
+    },
+    {
+      "word": "Nirvana",
+      "hint": "Smells like teen spirit"
+    },
+    {
+      "word": "Coldplay",
+      "hint": "Viva la vida"
+    },
+    {
+      "word": "Metallica",
+      "hint": "Enter sandman"
+    },
+    {
+      "word": "Pink Floyd",
+      "hint": "The wall"
+    },
+    {
+      "word": "AC/DC",
+      "hint": "Thunderstruck"
+    },
+    {
+      "word": "Rolling Stones",
+      "hint": "Paint it black"
+    },
+    {
+      "word": "U2",
+      "hint": "Beautiful day"
+    },
+    {
+      "word": "Led Zeppelin",
+      "hint": "Immigrant song"
+    },
+    {
+      "word": "Guns N Roses",
+      "hint": "Sweet child o mine"
+    },
+    {
+      "word": "Eminem",
+      "hint": "Lose yourself"
+    },
+    {
+      "word": "Michael Jackson",
+      "hint": "Thriller dance"
+    },
+    {
+      "word": "Elvis Presley",
+      "hint": "Jailhouse rock"
+    },
+    {
+      "word": "Madonna",
+      "hint": "Material girl"
+    },
+    {
+      "word": "Beyonce",
+      "hint": "Single ladies"
+    },
+    {
+      "word": "Taylor Swift",
+      "hint": "Shake it off"
+    },
+    {
+      "word": "Ed Sheeran",
+      "hint": "Thinking out loud"
+    },
+    {
+      "word": "Adele",
+      "hint": "Hello from the other side"
+    },
+    {
+      "word": "Rihanna",
+      "hint": "Work work work"
+    },
+    {
+      "word": "Drake",
+      "hint": "Hotline bling"
+    },
+    {
+      "word": "Kanye West",
+      "hint": "Stronger"
+    },
+    {
+      "word": "Justin Bieber",
+      "hint": "Sorry"
+    },
+    {
+      "word": "Ariana Grande",
+      "hint": "Thank u next"
+    },
+    {
+      "word": "Billie Eilish",
+      "hint": "Ocean eyes"
+    },
+    {
+      "word": "The Weeknd",
+      "hint": "Starboy"
+    },
+    {
+      "word": "Bruno Mars",
+      "hint": "Locked out of heaven"
+    },
+    {
+      "word": "Post Malone",
+      "hint": "Circles"
+    }
+  ],
+  "occupations": [
+    {
+      "word": "Doctor",
+      "hint": "Wears a stethoscope"
+    },
+    {
+      "word": "Nurse",
+      "hint": "Assists in hospital"
+    },
+    {
+      "word": "Teacher",
+      "hint": "Grades papers"
+    },
+    {
+      "word": "Police",
+      "hint": "Wears a badge"
+    },
+    {
+      "word": "Firefighter",
+      "hint": "Slides down pole"
+    },
+    {
+      "word": "Engineer",
+      "hint": "Calculates structures"
+    },
+    {
+      "word": "Lawyer",
+      "hint": "Argues in court"
+    },
+    {
+      "word": "Accountant",
+      "hint": "Does the taxes"
+    },
+    {
+      "word": "Chef",
+      "hint": "Wears a tall hat"
+    },
+    {
+      "word": "Pilot",
+      "hint": "Sits in cockpit"
+    },
+    {
+      "word": "Astronaut",
+      "hint": "Floats in zero G"
+    },
+    {
+      "word": "Plumber",
+      "hint": "Unclogs drains"
+    },
+    {
+      "word": "Electrician",
+      "hint": "Checks the circuits"
+    },
+    {
+      "word": "Carpenter",
+      "hint": "Works with timber"
+    },
+    {
+      "word": "Mechanic",
+      "hint": "Looks under the hood"
+    },
+    {
+      "word": "Barber",
+      "hint": "Uses clippers"
+    },
+    {
+      "word": "Dentist",
+      "hint": "Checks for cavities"
+    },
+    {
+      "word": "Veterinarian",
+      "hint": "Cures pets"
+    },
+    {
+      "word": "Architect",
+      "hint": "Draws blueprints"
+    },
+    {
+      "word": "Scientist",
+      "hint": "Wears a lab coat"
+    },
+    {
+      "word": "Farmer",
+      "hint": "Drives a tractor"
+    },
+    {
+      "word": "Fisherman",
+      "hint": "Casts a net"
+    },
+    {
+      "word": "Miner",
+      "hint": "Wears a hard hat with a light"
+    },
+    {
+      "word": "Soldier",
+      "hint": "Wears camouflage"
+    },
+    {
+      "word": "Artist",
+      "hint": "Mixes colors"
+    },
+    {
+      "word": "Musician",
+      "hint": "Reads sheet music"
+    },
+    {
+      "word": "Actor",
+      "hint": "Memorizes lines"
+    },
+    {
+      "word": "Writer",
+      "hint": "Meets word counts"
+    }
+  ],
+  "school_education": [
+    {
+      "word": "Math",
+      "hint": "Addition and subtraction"
+    },
+    {
+      "word": "Science",
+      "hint": "Lab goggles"
+    },
+    {
+      "word": "History",
+      "hint": "Memorizing dates"
+    },
+    {
+      "word": "Geography",
+      "hint": "Looking at globes"
+    },
+    {
+      "word": "English",
+      "hint": "Writing essays"
+    },
+    {
+      "word": "Art",
+      "hint": "Drawing class"
+    },
+    {
+      "word": "Music",
+      "hint": "Playing instruments class"
+    },
+    {
+      "word": "PE",
+      "hint": "Running laps"
+    },
+    {
+      "word": "Physics",
+      "hint": "Forces and motion"
+    },
+    {
+      "word": "Chemistry",
+      "hint": "Test tubes"
+    },
+    {
+      "word": "Biology",
+      "hint": "Dissecting frogs"
+    },
+    {
+      "word": "Literature",
+      "hint": "Analyzing poems"
+    },
+    {
+      "word": "Algebra",
+      "hint": "Finding X"
+    },
+    {
+      "word": "Geometry",
+      "hint": "Protractors and compasses"
+    },
+    {
+      "word": "Calculus",
+      "hint": "Derivatives and integrals"
+    },
+    {
+      "word": "Astronomy",
+      "hint": "Looking through telescopes"
+    },
+    {
+      "word": "Philosophy",
+      "hint": "Deep thoughts"
+    },
+    {
+      "word": "Psychology",
+      "hint": "Studying behavior"
+    },
+    {
+      "word": "Sociology",
+      "hint": "Studying groups"
+    },
+    {
+      "word": "Economics",
+      "hint": "Supply and demand"
+    },
+    {
+      "word": "Teacher",
+      "hint": "At the front of class"
+    },
+    {
+      "word": "Student",
+      "hint": "Raising hand"
+    },
+    {
+      "word": "Principal",
+      "hint": "In the main office"
+    },
+    {
+      "word": "Homework",
+      "hint": "Due tomorrow"
+    },
+    {
+      "word": "Exams",
+      "hint": "No talking allowed"
+    },
+    {
+      "word": "Textbook",
+      "hint": "Heavy backpack item"
+    },
+    {
+      "word": "Whiteboard",
+      "hint": "Dry erase markers"
+    },
+    {
+      "word": "Recess",
+      "hint": "Playing outside"
+    }
+  ],
+  "science_technology": [
+    {
+      "word": "Computer",
+      "hint": "Keyboard and mouse"
+    },
+    {
+      "word": "Internet",
+      "hint": "Connected network"
+    },
+    {
+      "word": "AI",
+      "hint": "Machine learning"
+    },
+    {
+      "word": "Robot",
+      "hint": "Mechanical being"
+    },
+    {
+      "word": "Space",
+      "hint": "Beyond the atmosphere"
+    },
+    {
+      "word": "Planet",
+      "hint": "Orbits a star"
+    },
+    {
+      "word": "Star",
+      "hint": "Burning gas ball"
+    },
+    {
+      "word": "Galaxy",
+      "hint": "Billions of stars"
+    },
+    {
+      "word": "Chemistry",
+      "hint": "Periodic table"
+    },
+    {
+      "word": "Physics",
+      "hint": "Theoretical study"
+    },
+    {
+      "word": "Biology",
+      "hint": "Cellular structure"
+    },
+    {
+      "word": "Mathematics",
+      "hint": "Equations"
+    },
+    {
+      "word": "Smartphone",
+      "hint": "App device"
+    },
+    {
+      "word": "Tablet",
+      "hint": "Touch screen only"
+    },
+    {
+      "word": "Laptop",
+      "hint": "Foldable device"
+    },
+    {
+      "word": "Microchip",
+      "hint": "Integrated circuit"
+    },
+    {
+      "word": "Software",
+      "hint": "Code execution"
+    },
+    {
+      "word": "Hardware",
+      "hint": "Motherboard and RAM"
+    },
+    {
+      "word": "Data",
+      "hint": "Ones and zeros"
+    },
+    {
+      "word": "Algorithm",
+      "hint": "Logic sequence"
+    },
+    {
+      "word": "Microscope",
+      "hint": "Slides and lenses"
+    },
+    {
+      "word": "Telescope",
+      "hint": "Observatory tool"
+    },
+    {
+      "word": "Laser",
+      "hint": "Optical amplification"
+    },
+    {
+      "word": "DNA",
+      "hint": "Double helix"
+    },
+    {
+      "word": "Atom",
+      "hint": "Protons and neutrons"
+    },
+    {
+      "word": "Molecule",
+      "hint": "Chemical bond"
+    },
+    {
+      "word": "Gravity",
+      "hint": "Newton's apple"
+    },
+    {
+      "word": "Evolution",
+      "hint": "Survival of the fittest"
+    }
+  ],
+  "sports": [
+    {
+      "word": "Soccer",
+      "hint": "No hands allowed"
+    },
+    {
+      "word": "Basketball",
+      "hint": "Dribbling"
+    },
+    {
+      "word": "Baseball",
+      "hint": "Hitting a home run"
+    },
+    {
+      "word": "Tennis",
+      "hint": "Serving an ace"
+    },
+    {
+      "word": "Golf",
+      "hint": "Putting on the green"
+    },
+    {
+      "word": "Swimming",
+      "hint": "Wearing goggles"
+    },
+    {
+      "word": "Running",
+      "hint": "Crossing the finish line"
+    },
+    {
+      "word": "Cycling",
+      "hint": "Wearing a helmet"
+    },
+    {
+      "word": "Volleyball",
+      "hint": "Spiking down"
+    },
+    {
+      "word": "Rugby",
+      "hint": "Scoring a try"
+    },
+    {
+      "word": "Cricket",
+      "hint": "Bowling the ball"
+    },
+    {
+      "word": "Boxing",
+      "hint": "Knockout punch"
+    },
+    {
+      "word": "Football",
+      "hint": "Throwing a touchdown"
+    },
+    {
+      "word": "Hockey",
+      "hint": "Slap shot"
+    },
+    {
+      "word": "Wrestling",
+      "hint": "Pinning shoulders"
+    },
+    {
+      "word": "MMA",
+      "hint": "Tap out"
+    },
+    {
+      "word": "Gymnastics",
+      "hint": "Balance beam"
+    },
+    {
+      "word": "Figure Skating",
+      "hint": "Triple axel"
+    },
+    {
+      "word": "Surfing",
+      "hint": "Catching a barrel"
+    },
+    {
+      "word": "Skateboarding",
+      "hint": "Ollie and kickflip"
+    },
+    {
+      "word": "Skiing",
+      "hint": "Slalom course"
+    },
+    {
+      "word": "Snowboarding",
+      "hint": "Halfpipe tricks"
+    },
+    {
+      "word": "Archery",
+      "hint": "Bullseye target"
+    },
+    {
+      "word": "Fencing",
+      "hint": "En garde"
+    },
+    {
+      "word": "Bowling",
+      "hint": "Hitting a strike"
+    },
+    {
+      "word": "Billiards",
+      "hint": "Eight ball corner pocket"
+    },
+    {
+      "word": "Darts",
+      "hint": "Hitting a 180"
+    },
+    {
+      "word": "Badminton",
+      "hint": "Smashing the shuttle"
+    }
+  ],
+  "superheroes": [
+    {
+      "word": "Superman",
+      "hint": "Red cape"
+    },
+    {
+      "word": "Batman",
+      "hint": "Bat signal"
+    },
+    {
+      "word": "Spider-Man",
+      "hint": "Swinging through NY"
+    },
+    {
+      "word": "Iron Man",
+      "hint": "Arc reactor"
+    },
+    {
+      "word": "Captain America",
+      "hint": "Vibranium shield"
+    },
+    {
+      "word": "Thor",
+      "hint": "Mjolnir hammer"
+    },
+    {
+      "word": "Hulk",
+      "hint": "Smashes things"
+    },
+    {
+      "word": "Wolverine",
+      "hint": "Healing factor"
+    },
+    {
+      "word": "Flash",
+      "hint": "Central city speedster"
+    },
+    {
+      "word": "Wonder Woman",
+      "hint": "Lasso of truth"
+    },
+    {
+      "word": "Aquaman",
+      "hint": "Trident king"
+    },
+    {
+      "word": "Black Panther",
+      "hint": "Wakanda forever"
+    },
+    {
+      "word": "Doctor Strange",
+      "hint": "Eye of Agamotto"
+    },
+    {
+      "word": "Ant-Man",
+      "hint": "Pym particles"
+    },
+    {
+      "word": "Captain Marvel",
+      "hint": "Binary power"
+    },
+    {
+      "word": "Deadpool",
+      "hint": "Fourth wall breaker"
+    },
+    {
+      "word": "Green Lantern",
+      "hint": "Construct ring"
+    },
+    {
+      "word": "Cyborg",
+      "hint": "Booyah"
+    },
+    {
+      "word": "Martian Manhunter",
+      "hint": "Oreos fan"
+    },
+    {
+      "word": "Green Arrow",
+      "hint": "Star City archer"
+    },
+    {
+      "word": "Black Widow",
+      "hint": "Red room assassin"
+    },
+    {
+      "word": "Hawkeye",
+      "hint": "Never misses"
+    },
+    {
+      "word": "Scarlet Witch",
+      "hint": "Hex powers"
+    },
+    {
+      "word": "Vision",
+      "hint": "Mind stone"
+    },
+    {
+      "word": "Daredevil",
+      "hint": "Blind lawyer"
+    },
+    {
+      "word": "Punisher",
+      "hint": "Skull shirt"
+    },
+    {
+      "word": "Ghost Rider",
+      "hint": "Motorcycle spirit"
+    },
+    {
+      "word": "Blade",
+      "hint": "Daywalker"
+    }
+  ],
+  "transportation": [
+    {
+      "word": "Car",
+      "hint": "Steering wheel"
+    },
+    {
+      "word": "Bus",
+      "hint": "Has many rows of seats"
+    },
+    {
+      "word": "Train",
+      "hint": "Conductor aboard"
+    },
+    {
+      "word": "Airplane",
+      "hint": "Takes off from runway"
+    },
+    {
+      "word": "Bicycle",
+      "hint": "Needs balance"
+    },
+    {
+      "word": "Motorcycle",
+      "hint": "Requires a helmet"
+    },
+    {
+      "word": "Boat",
+      "hint": "Floating vessel"
+    },
+    {
+      "word": "Ship",
+      "hint": "Has a captain"
+    },
+    {
+      "word": "Helicopter",
+      "hint": "Lands on a helipad"
+    },
+    {
+      "word": "Subway",
+      "hint": "Underground transit"
+    },
+    {
+      "word": "Taxi",
+      "hint": "Yellow cab"
+    },
+    {
+      "word": "Tram",
+      "hint": "Cable car"
+    },
+    {
+      "word": "Truck",
+      "hint": "18 wheeler"
+    },
+    {
+      "word": "Van",
+      "hint": "Sliding side door"
+    },
+    {
+      "word": "Jeep",
+      "hint": "Top down driving"
+    },
+    {
+      "word": "Scooter",
+      "hint": "Kick and ride"
+    },
+    {
+      "word": "Skateboard",
+      "hint": "Grip tape"
+    },
+    {
+      "word": "Rollerblades",
+      "hint": "Wheels on feet"
+    },
+    {
+      "word": "Submarine",
+      "hint": "Periscope user"
+    },
+    {
+      "word": "Ferry",
+      "hint": "Carries cars over water"
+    },
+    {
+      "word": "Hot Air Balloon",
+      "hint": "Propane burner"
+    },
+    {
+      "word": "Blimp",
+      "hint": "Goodyear skyride"
+    },
+    {
+      "word": "Spaceship",
+      "hint": "Zero gravity travel"
+    },
+    {
+      "word": "Rocket",
+      "hint": "Countdown sequence"
+    },
+    {
+      "word": "Ambulance",
+      "hint": "Sirens blaring"
+    },
+    {
+      "word": "Fire Truck",
+      "hint": "Red emergency vehicle"
+    },
+    {
+      "word": "Police Car",
+      "hint": "Light bar on top"
+    },
+    {
+      "word": "Garbage Truck",
+      "hint": "Compacts waste"
+    }
+  ],
+  "video_games": [
+    {
+      "word": "Mario",
+      "hint": "Jumps on goombas"
+    },
+    {
+      "word": "Zelda",
+      "hint": "Triforce hero"
+    },
+    {
+      "word": "Pokemon",
+      "hint": "Pikachu's franchise"
+    },
+    {
+      "word": "Minecraft",
+      "hint": "Creepers and zombies"
+    },
+    {
+      "word": "Fortnite",
+      "hint": "Gliding in"
+    },
+    {
+      "word": "Call of Duty",
+      "hint": "First person shooter"
+    },
+    {
+      "word": "GTA",
+      "hint": "Los Santos"
+    },
+    {
+      "word": "Halo",
+      "hint": "Cortana's companion"
+    },
+    {
+      "word": "Sonic",
+      "hint": "Collected rings"
+    },
+    {
+      "word": "Tetris",
+      "hint": "Clearing lines"
+    },
+    {
+      "word": "Pac-Man",
+      "hint": "Running from ghosts"
+    },
+    {
+      "word": "Sims",
+      "hint": "Speaking Simlish"
+    },
+    {
+      "word": "Skyrim",
+      "hint": "Fus Ro Dah"
+    },
+    {
+      "word": "Witcher",
+      "hint": "Geralt of Rivia"
+    },
+    {
+      "word": "Fallout",
+      "hint": "Vault boy"
+    },
+    {
+      "word": "Mass Effect",
+      "hint": "Commander Shepard"
+    },
+    {
+      "word": "Overwatch",
+      "hint": "Payload escort"
+    },
+    {
+      "word": "Valorant",
+      "hint": "Spike defuse"
+    },
+    {
+      "word": "League of Legends",
+      "hint": "Summoner's Rift"
+    },
+    {
+      "word": "Dota",
+      "hint": "Valve MOBA"
+    },
+    {
+      "word": "Super Smash Bros",
+      "hint": "Final destination"
+    },
+    {
+      "word": "Street Fighter",
+      "hint": "Hadouken"
+    },
+    {
+      "word": "Mortal Kombat",
+      "hint": "Fatality"
+    },
+    {
+      "word": "Tekken",
+      "hint": "King of Iron Fist"
+    },
+    {
+      "word": "Animal Crossing",
+      "hint": "Tom Nook's debt"
+    },
+    {
+      "word": "Stardew Valley",
+      "hint": "Pelican Town"
+    },
+    {
+      "word": "Portal",
+      "hint": "The cake is a lie"
+    },
+    {
+      "word": "Half-Life",
+      "hint": "Crowbar hero"
+    }
+  ],
+  "weather_nature": [
+    {
+      "word": "Sun",
+      "hint": "Provides vitamin D"
+    },
+    {
+      "word": "Rain",
+      "hint": "Needs an umbrella"
+    },
+    {
+      "word": "Snow",
+      "hint": "Makes it white"
+    },
+    {
+      "word": "Cloud",
+      "hint": "Blocks the light"
+    },
+    {
+      "word": "Wind",
+      "hint": "Blows things away"
+    },
+    {
+      "word": "Storm",
+      "hint": "Stay indoors"
+    },
+    {
+      "word": "Lightning",
+      "hint": "Bright flash"
+    },
+    {
+      "word": "Thunder",
+      "hint": "Rumbles loud"
+    },
+    {
+      "word": "Tornado",
+      "hint": "Funnel cloud"
+    },
+    {
+      "word": "Hurricane",
+      "hint": "Category 5"
+    },
+    {
+      "word": "Earthquake",
+      "hint": "Richter scale"
+    },
+    {
+      "word": "Volcano",
+      "hint": "Erupting magma"
+    },
+    {
+      "word": "Fog",
+      "hint": "Low visibility"
+    },
+    {
+      "word": "Hail",
+      "hint": "Ice from the sky"
+    },
+    {
+      "word": "Rainbow",
+      "hint": "Pot of gold at end"
+    },
+    {
+      "word": "Meteor",
+      "hint": "Shoots across sky"
+    },
+    {
+      "word": "River",
+      "hint": "Flows to the sea"
+    },
+    {
+      "word": "Lake",
+      "hint": "Surrounded by land"
+    },
+    {
+      "word": "Ocean",
+      "hint": "Home to coral"
+    },
+    {
+      "word": "Waterfall",
+      "hint": "Plunging stream"
+    },
+    {
+      "word": "Mountain",
+      "hint": "Requires climbing"
+    },
+    {
+      "word": "Valley",
+      "hint": "Low basin"
+    },
+    {
+      "word": "Forest",
+      "hint": "Full of pine cones"
+    },
+    {
+      "word": "Desert",
+      "hint": "Cacti habitat"
+    },
+    {
+      "word": "Jungle",
+      "hint": "Dense canopy"
+    },
+    {
+      "word": "Swamp",
+      "hint": "Muddy bog"
+    },
+    {
+      "word": "Cave",
+      "hint": "Stalactites"
+    },
+    {
+      "word": "Island",
+      "hint": "Tropical getaway"
+    },
+    {
+      "word": "Tree",
+      "hint": "Trunk and branches"
+    },
+    {
+      "word": "Flower",
+      "hint": "Petals and pollen"
+    },
+    {
+      "word": "Grass",
+      "hint": "Needs mowing"
+    },
+    {
+      "word": "Dirt",
+      "hint": "Muddy when wet"
+    }
+  ]
+}
