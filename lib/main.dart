@@ -1,14 +1,33 @@
 import 'package:flutter/material.dart';
+import 'package:flutter/services.dart';
 import 'package:provider/provider.dart';
+import 'package:firebase_core/firebase_core.dart';
+import 'firebase_options.dart';
 import 'providers/game_provider.dart';
-import 'screens/category_screen.dart';
+import 'providers/online_game_provider.dart';
+import 'screens/auth_wrapper.dart';
 import 'theme/app_theme.dart';
 
-void main() {
+void main() async {
+  WidgetsFlutterBinding.ensureInitialized();
+  SystemChrome.setPreferredOrientations([
+    DeviceOrientation.portraitUp,
+    DeviceOrientation.portraitDown,
+  ]);
+
+  try {
+    await Firebase.initializeApp(
+      options: DefaultFirebaseOptions.currentPlatform,
+    );
+  } catch (e) {
+    debugPrint("Firebase init error (likely because placeholder is used): $e");
+  }
+
   runApp(
     MultiProvider(
       providers: [
         ChangeNotifierProvider(create: (_) => GameProvider()),
+        ChangeNotifierProvider(create: (_) => OnlineGameProvider()),
       ],
       child: const ImposterWhoApp(),
     ),
@@ -24,7 +43,7 @@ class ImposterWhoApp extends StatelessWidget {
       title: 'Imposter Who',
       debugShowCheckedModeBanner: false,
       theme: AppTheme.darkTheme,
-      home: const CategoryScreen(),
+      home: const AuthWrapper(),
     );
   }
 }

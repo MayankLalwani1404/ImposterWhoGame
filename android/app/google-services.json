@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "155307068085",
+    "project_id": "imposter-who-5a638",
+    "storage_bucket": "imposter-who-5a638.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:155307068085:android:697f3e3adc1f102b87ccfc",
+        "android_client_info": {
+          "package_name": "com.example.imposterwhogame"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRwFjHGqFhoksVXJK9v5LQguKQ_ItAvFo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
