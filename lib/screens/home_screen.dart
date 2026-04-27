@@ -75,7 +75,7 @@ class HomeScreen extends StatelessWidget {
               ).animate().fade().scale(curve: Curves.easeOutBack, duration: 800.ms),
               const SizedBox(height: 20),
               Text(
-                'IMPOSTER\nWHO',
+                'Deceived',
                 textAlign: TextAlign.center,
                 style: const TextStyle(
                   color: AppTheme.accentLimeGreen,
