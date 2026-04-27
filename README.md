@@ -1,10 +1,10 @@
-# Imposter Who 🕵️‍♂️ (v2.0.0)
+# Deceived 🕵️‍♂️ (v2.0.0)
 
 [![Flutter Version](https://img.shields.io/badge/Flutter-3.x-blue.svg)](https://flutter.dev/)
 [![Firebase](https://img.shields.io/badge/Firebase-Integrated-orange.svg)](https://firebase.google.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
-**Imposter Who** is an adrenaline-pumping, highly dynamic social deduction party game built natively in Flutter. What started as a local "Pass-and-Play" phone game has now evolved into a massive fully-networked real-time multiplayer application powered by Firebase!
+**Deceived** is an adrenaline-pumping, highly dynamic social deduction party game built natively in Flutter. What started as a local "Pass-and-Play" phone game has now evolved into a massive fully-networked real-time multiplayer application powered by Firebase!
 
 Play locally with friends on the couch, or spin up private Cloud Lobbies to play across the world asynchronously via Discord or built-in Turned-Based chat modes.
 
@@ -61,7 +61,7 @@ flutter run
 ---
 
 ## 🏗 System Architecture
-Imposter Who is entirely reliant on the native `ChangeNotifierProvider` architecture combined natively with `StreamSubscriptions` linking to Firestore document snapshots.
+Deceived is entirely reliant on the native `ChangeNotifierProvider` architecture combined natively with `StreamSubscriptions` linking to Firestore document snapshots.
 
 Data schemas strictly separate `RoomSettings`, `RoomPlayer`, and global `Room` states to enforce complete network safety preventing split-brain game scenarios.
 
